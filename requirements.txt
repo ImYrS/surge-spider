@@ -2,3 +2,4 @@ configobj~=5.0.8
 peewee~=3.17.0
 requests~=2.31.0
 lxml~=4.9.3
+tqdm~=4.66.1
